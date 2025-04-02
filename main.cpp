@@ -43,7 +43,7 @@ int main()
                 if (Win(spatii, Jucator, Computer))
                 {
                     run = false;
-                    break; // daca se indeplineste conditia se iese din while
+                    break; // daca se indeplineste conditia iese din while
                 }
 
                 if (VerificaEgalitate(spatii, Jucator, Computer))
